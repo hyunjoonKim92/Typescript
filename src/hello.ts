@@ -4,5 +4,3 @@ function concat(left: string, right: string): string {
 }
 
 let hello: string = concat("hello", "world");
-
-console.log(hello);
